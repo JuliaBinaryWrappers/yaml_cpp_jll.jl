@@ -1,6 +1,6 @@
 name = "yaml_cpp_jll"
 uuid = "01fea8cc-7d33-533a-824e-56a766f4ffe8"
-version = "0.7.0+0"
+version = "0.7.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
