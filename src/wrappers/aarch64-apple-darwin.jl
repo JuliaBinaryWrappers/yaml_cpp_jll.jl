@@ -2,12 +2,12 @@
 export libyaml_cpp
 
 JLLWrappers.@generate_wrapper_header("yaml_cpp")
-JLLWrappers.@declare_library_product(libyaml_cpp, "@rpath/libyaml-cpp.0.7.dylib")
+JLLWrappers.@declare_library_product(libyaml_cpp, "@rpath/libyaml-cpp.0.5.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libyaml_cpp,
-        "lib/libyaml-cpp.0.7.0.dylib",
+        "lib/libyaml-cpp.0.5.3.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
