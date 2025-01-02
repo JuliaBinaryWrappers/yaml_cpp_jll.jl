@@ -5,7 +5,7 @@ os = "macos"
 
     [[yaml_cpp.download]]
     sha256 = "caa601ca38a1ca8d194212c53cf4f76f7445ea1457dd9db7669a4be337396efb"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.aarch64-apple-darwin.tar.gz"
 [[yaml_cpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "5249c56633d123c73b7dc8f88428e63e69ab3ec75087395d8d4355942df93cc3"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "f44bd9c1b09ae43ad100b59c52fad1cb5e167e2d3cac9deb1adf4d7fcb6cf7b6"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "fff3c64c26e35bcd5ee11d3233ff57c4d9bdda68c106813f770846707f2380a8"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.aarch64-linux-musl-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "131676f9aec3a1bf8c41677c7d04942522c132a4decd3ee1254ebb4dbd1a8478"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.aarch64-linux-musl-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "aarch64"
 git-tree-sha1 = "db39244499a6a8debb8d5a020170d78aed1992b3"
@@ -53,7 +53,7 @@ os = "freebsd"
 
     [[yaml_cpp.download]]
     sha256 = "02f5beefda739907701841fbed9c3f54c9d8465adcf0a082f0e7ab0347d7cc3e"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.aarch64-unknown-freebsd.tar.gz"
 [[yaml_cpp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -64,7 +64,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "86b61ce41e5df36436cceabf6ce4eb3055ddbd1a2d29621285f50287956b4e2c"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -75,7 +75,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "59d178a84a99e209480dd193adb0e71d376e5ca56bf0d07b43090e8e86c7c29b"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -86,7 +86,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "5819321b1c0a239085b0a2aefcfe0ae04a922bc2cb91bb43841ed29ad65c6aed"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -97,7 +97,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "571e8a454315db653a2ab9e5db87273e945daad6ab1f6ee48273006c5354007d"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "4954574c80654b5a24a072dc5024b90b20040ca110341ef02212eb7cd4fdd8db"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -119,7 +119,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "124e5512f92a414f4ec46a54a4d2465050617ab8494ebaecb55de51d1bd5cb84"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -130,7 +130,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "06c87c4fe00e221ad2b9ea4b5bb3e4f7161e01d3ba9ae12b242b71be7ddc4699"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -141,7 +141,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "66fd7e171fa29476dcf228d1afb6e7fb81c75da95e421297973433fbd56ba39d"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -151,7 +151,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "97be65aad0e0e1143ff0b82998982fadda4db76091f76d40d6cb9712c6681e69"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.i686-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.i686-linux-gnu-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -161,7 +161,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "a149c2619432aef4d22caa721fe3fc388d74147cd951147ad40980322cbcf2f9"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.i686-linux-gnu-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -171,7 +171,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "cae68c807a72df99a3462a48224212e69aa8d54d478fa6680da0222e570be45f"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.i686-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.i686-linux-musl-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -181,7 +181,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "bb7e589d73a24ea58332a2b5f0ced6a9515c4214264f8914cc3124a54b19ffc6"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.i686-linux-musl-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -190,7 +190,7 @@ os = "windows"
 
     [[yaml_cpp.download]]
     sha256 = "3353ef99f2ac82529761700097cbe9ef97c7a96f4b3b942af6cd240b1f1b7597"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.i686-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.i686-w64-mingw32-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -199,7 +199,7 @@ os = "windows"
 
     [[yaml_cpp.download]]
     sha256 = "c22e28afb0423b56b02c94decf8703f8e3b81b104ea06940e89dbff40e9bb9c8"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.i686-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.i686-w64-mingw32-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -209,7 +209,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "6c7c128af08d0daf493218f0d8aaa8f14e870c3cbe9e35b465a09b8d220abd8a"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -219,7 +219,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "2ca7a519874a5992ee6c5ea587210930ec427b8236e6a6fff390c0b08e867472"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
@@ -229,7 +229,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "ba0080fc96d32c194f212513decd4ff29d357ffe29705f59c44808c028de6883"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.riscv64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.riscv64-linux-gnu-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -239,7 +239,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "8da9c0d69ce87eb31399c069abf22738c552bfc8487461f3275d220f5b390b39"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.riscv64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.riscv64-linux-gnu-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 git-tree-sha1 = "b71b3639f7b20e5cff5dcaf5d058e3ba45e0c76f"
@@ -247,7 +247,7 @@ os = "macos"
 
     [[yaml_cpp.download]]
     sha256 = "186fa2ca2656d338b0fb47431431fe54c621c3abeb7976dee6ef6f1f01f2ce2a"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-apple-darwin.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -257,7 +257,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "4b3e1e8cda5527e1dfd6100d190933bed2f193db2ebccab5d683fde5cb6f2d54"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -267,7 +267,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "934a1ff9d824065c42547a3fcfafb5e85654a9ded12b24f69201690640550f7c"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -277,7 +277,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "4048939c24565c30d869264d32f99c0f864fa44d800b17a03c29d0c44e05f655"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-linux-musl-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -287,7 +287,7 @@ os = "linux"
 
     [[yaml_cpp.download]]
     sha256 = "46d49cd4e96d506c8f8516d9fe00c33a82c41a0a4ef3a3537b5398a08543d763"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-linux-musl-cxx11.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 git-tree-sha1 = "91df32136cdce10a1163224e0bfb9920fe7e6a80"
@@ -295,7 +295,7 @@ os = "freebsd"
 
     [[yaml_cpp.download]]
     sha256 = "616f731960e79dabdacdd62d6a63337bfc6109f945d2157da68d416e59ac3318"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-unknown-freebsd.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -304,7 +304,7 @@ os = "windows"
 
     [[yaml_cpp.download]]
     sha256 = "ea4626bcf44649ccc05c68b2c06f29e47a535c903625bcf510dacd952112e9ba"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[yaml_cpp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -313,4 +313,4 @@ os = "windows"
 
     [[yaml_cpp.download]]
     sha256 = "d475c82d8b3ec41a1058a868c29f304cbd2398d4d1137bf367d555c87e54cc36"
-    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.0+1/yaml_cpp.v0.8.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/yaml_cpp_jll.jl/releases/download/yaml_cpp-v0.8.1+0/yaml_cpp.v0.8.1.x86_64-w64-mingw32-cxx11.tar.gz"
